@@ -1,6 +1,10 @@
+*NEW LINE20*
+*NEW LINE20*
 NotAwesome
 Nottxt
 file
 without
 some
+lines
+changed
 lines

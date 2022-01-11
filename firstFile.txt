@@ -1,5 +1,5 @@
-Awesome
-txt
+NotAwesome
+Nottxt
 file
 with
 few

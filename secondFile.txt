@@ -1,0 +1,11 @@
+Another
+awesome
+txt
+file
+with
+some
+new
+lines
+*CONFLICT*
+*UPDATED*
+*LINES*

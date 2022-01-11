@@ -7,4 +7,5 @@ some
 new
 lines
 *CONFLICT*
+*UPDATED*
 *LINES*

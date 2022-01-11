@@ -6,3 +6,5 @@ with
 some
 new
 lines
+*CONFLICT*
+*LINES*

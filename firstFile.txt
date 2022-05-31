@@ -1,6 +1,6 @@
-Awesome
-txt
+NotAwesome
+Nottxt
 file
-with
-few
+without
+some
 lines
